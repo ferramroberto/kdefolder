@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment[it]=Visualizza i tuoi documenti
+Encoding=UTF-8
+Icon=user-home
+Name[it]=Documenti
+Name=Documenti
+OnlyShowIn=KDE;
+Type=Link
+URL[$e]=$HOME
