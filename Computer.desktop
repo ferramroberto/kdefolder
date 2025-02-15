@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment[it]=Accedi ai dischi rigidi, ai CD/DVD, ai floppy del tuo computer
+Encoding=UTF-8
+Icon=computer
+Name[it]=Risorse del Computer
+Name=Risorse del Computer
+OnlyShowIn=KDE;
+Type=Link
+URL[$e]=file:///
